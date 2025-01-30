@@ -40,7 +40,7 @@ I've tweaked the page to match my [`dotfiles`](https://github.com/pivoshenko/dot
 
 - Latte
 - Frappé
-- Macchiato
+- Macchiato /
 - Mocha
 
 ## 🪵 Usage
